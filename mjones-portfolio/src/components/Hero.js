@@ -20,12 +20,12 @@ export default function Hero() {
                 sx = {{ width: 250, height: 250 }}
             ></Avatar>
 
-            <Typography variant="h3" sx={{ fontWeight: 650 }} gutterBottom>
+            <Typography variant="h2" fontWeight={700}>
                 Matthew Jones
             </Typography>
 
-            <Typography variant="h4" sx={{ fontWeight: 650 }} gutterBottom>
-                Electrical and Computer Engineer
+            <Typography variant="h5" color="text.secondary">
+                Electrical & Computer Engineer
             </Typography>
 
             <Typography variant="h6" color="text.secondary" sx={{ mb: 3 }}>
