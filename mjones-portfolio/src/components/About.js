@@ -13,12 +13,12 @@ export default function About() {
                 About Me
             </Typography>
             <Typography color="text.secondary">
-                Curiosity has always been one of the first words that people in my life use to describe me. As an aircraft mechanic in the Navy, my dad has always put emphasis on me asking any questions that come to mind to learn about the world around me, especially about how things work. This has fueled my curiosity for everything in my life, but as I've grown older I've developed a love for learning everything I can about technology especially.
+                Curiosity has always been one of the first words that people in my life use to describe me. As an aircraft mechanic in the Navy, my dad has always emphasized asking any questions that come to mind to learn about the world around me, especially how things work. This has fueled my curiosity about everything in my life, but as I've grown older, I've developed a love for learning everything I can about technology, especially.
             </Typography>
             <p></p>
             
             <Typography color="text.secondary">
-                Now, as a student in Electrical and Computer Engineering who has 10 years' worth of experience in robotics and automotive design/manufacturing, these experiences have done nothing but fuel my natural curiosity. The more I learn about things that interest me, the more I want to learn.
+                Now, as a student in Electrical and Computer Engineering with 10 years of experience in robotics and automotive design/manufacturing, these experiences have done nothing but fuel my natural curiosity. The more I learn about what interests me, the more I want to learn.
             </Typography>
             <p></p>
 

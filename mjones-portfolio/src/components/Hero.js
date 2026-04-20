@@ -29,7 +29,7 @@ export default function Hero() {
             </Typography>
 
             <Typography variant="h6" color="text.secondary" sx={{ mb: 3 }}>
-                I design, manufacture, and test embedded systems and PCBs for robotics and automotive applications.
+                I design, manufacture, and test embedded systems and PCBs for robotics and automotive applications
             </Typography>
             <Button variant="contained" size="large" href="#projects">
                 See My Work
